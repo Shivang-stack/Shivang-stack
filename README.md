@@ -33,12 +33,12 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  \![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
 
 <a href="https://github.com/Shivang-stack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivang-stack8&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivang-stack&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang-stack&theme=buefy&layout=compact" />
 </a>
 
@@ -47,7 +47,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shivangyadav16/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/simpang.yadav/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/shivangyadav16/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivang%20Yadav-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/simpang.yadav/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Shivang Yadav-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:Shivang1691401@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Shivang1691401@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>

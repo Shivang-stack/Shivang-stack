@@ -38,6 +38,20 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
+# :zap: Github Stats :zap:
+<center>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivang-stack&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivang-stack&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivang-stack&theme=github_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivang-stack&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivang-stack&theme=github_dark)
+
+</center>
+<br/>
 
 <a href="https://github.com/Shivang-stack">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivang-stack&count_private=true&theme=tokyonight&show_icons=true" />
